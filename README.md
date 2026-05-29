@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Anıl Ağların 👋
-💻 Computer Engineering Student | Java, C#, C & Cloud Tech | Focused on OOP & Software Development 🚀
+💻 Computer Engineering Student | Java, C#, C & Cloud Tech, AI | Focused on OOP & Software Development 🚀
 
 
 ## 🌐 Socials:
